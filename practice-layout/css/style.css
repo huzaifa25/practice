@@ -1,0 +1,34 @@
+.yellow{
+    background: yellow;
+    height: 250px;
+}
+
+
+.slider-btn .btn {
+    background-color: blueviolet;
+    border-radius: 7rem;
+    position: relative;
+    
+}
+.slider-btn{
+    display: flex;
+    position: relative;
+    right: 13%;
+    z-index: 10;
+}
+.cat{
+    position: relative;
+    display: flex;
+    z-index: 10;
+    margin-bottom: -204px;
+    left :100px;
+}
+.footer-social{
+    font-size:1rem;
+    color:var(--white-color);
+    padding:0 1.875rem;
+}
+.ok{
+    margin-right: 0px;
+    margin-left: 0px;
+}
